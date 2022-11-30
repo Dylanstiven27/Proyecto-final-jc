@@ -15,7 +15,7 @@ body{
 
 #pregunta{
     width: 60vw;
-    min-height: 100px;
+    min-height: 70px;
     display: flex;
     justify-content: center;
     align-items: initial;
