@@ -1,0 +1,29 @@
+body{
+    background-image: url(../images/imagen\ de\ inicio.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+#text1{
+    min-height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#text2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#text3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#btn{
+    cursor: pointer;
+}
