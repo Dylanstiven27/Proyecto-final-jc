@@ -1,5 +1,91 @@
 [
     {
-        
+       "pregunta":"¿como se llama el actual presidente de colombia?1",
+       "respuesta":"A gustavo petro",
+       "incorrecta1":"B nicolas maduro",
+       "incorrecta2":"C Donal trump",
+       "incorrecta3":"D Michael jackson",
+       "incorrecta4":"E james rodriguez"
+    },
+
+    {
+        "pregunta":"¿cuantos mundiales tiene colombia?",
+        "respuesta":"D 0",
+        "incorrecta1":"A 1",
+        "incorrecta2":"B 7",
+        "incorrecta3":"C 9",
+        "incorrecta4":"E 6"
+    },
+
+    {
+        "pregunta":"jugador de colombia que juega en el liverpool",
+        "respuesta":"C luis diaz",
+        "incorrecta1":"A cristiano ronaldo",
+        "incorrecta2":"B lionel messi",
+        "incorrecta3":"D falcao garcia",
+        "incorrecta4":"E david ospina"
+    },
+
+    {
+        "pregunta":"capital de colombia",
+        "respuesta":"A bogota",
+        "incorrecta1":"B medellin",
+        "incorrecta2":"C new york",
+        "incorrecta3":"D cali",
+        "incorrecta4":"E noruega"
+    },
+
+    {
+        "pregunta":"¿que ciudad tiene tren en colombia?",
+        "respuesta":"c medellin",
+        "incorrecta1":"A buenaventura",
+        "incorrecta2":"B cali",
+        "incorrecta3":"D barranquilla",
+        "incorrecta4":"E santander"
+    },
+
+    {
+        "pregunta":"¿cuales son los colores de la bandera de colombia?",
+        "respuesta":"D amarillo,azul,rojo",
+        "incorrecta1":"A verde,azul,amarillo",
+        "incorrecta2":"B amarillo,azul,verde",
+        "incorrecta3":"C rojo,morado,gris",
+        "incorrecta4":"E gris,azul,verde"
+    },
+
+    {
+        "pregunta":"¿cuando fue el dia de la independendia de colombia?",
+        "respuesta":"A jueves 20 de julio 1810",
+        "incorrecta1":"B viernes 27 de octubre 2005",
+        "incorrecta2":"C martes 13 de septiembre 2022",
+        "incorrecta3":"D jueves 28 de octubre 2018",
+        "incorrecta4":"E jueves 28 de agosto 2020"
+    },
+
+    {
+        "pregunta":"¿cuantos paises comparten fronteras terrestres con colombia?",
+        "respuesta":"D 5",
+        "incorrecta1":"A 6",
+        "incorrecta2":"B 9",
+        "incorrecta3":"C 10",
+        "incorrecta4":"E 1"
+    },
+
+    {
+        "pregunta":"¿cual es la capital del departamento del amazonas?",
+        "respuesta":"C leticia",
+        "incorrecta1":"A brasil",
+        "incorrecta2":"B cali",
+        "incorrecta3":"D choco",
+        "incorrecta4":"E bogota"
+    },
+
+    {
+        "pregunta":"Los siguientes territorios formaron parte de la Gran Colombia entre 1821 y 1830",
+        "respuesta":"D ecuador,panama,venzuela",
+        "incorrecta1":"A estados unidos,canada,brasil,peru",
+        "incorrecta2":"B ecuador,panama,cali",
+        "incorrecta3":"C chile,honduras,ecuador",
+        "incorrecta4":"E cartagena,cali,medellin"
     }
 ]
