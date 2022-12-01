@@ -1,0 +1,40 @@
+*{
+    transition: all 0.25s;}
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url(../images/imagen\ del\ body\ de\ preguntas.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+#pregunta{
+    width: 60vw;
+    min-height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: initial;
+    flex-direction: column;
+    background: #ECF0F1 ;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.opcion{
+    width: 60vw;
+    background: #ECF0F1 ;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.opcion:hover{
+    background:beige;
+}
